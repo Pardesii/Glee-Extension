@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Glee extension",
+    "description": "Get to read jokes while working.",
+    "version": "1.0.0",
+    "browser_action": {
+      "default_popup": "index.html"
+    },
+    "permissions": ["activeTab"]
+  }
